@@ -1,0 +1,14 @@
+struct s0{
+    int a ;
+    char b ;
+    struct s1{
+        double a1;
+        long b1;
+    };
+};
+
+int main(){
+   struct s0 ob;
+   ob.a = 4;
+   ob.b= 'b';
+}

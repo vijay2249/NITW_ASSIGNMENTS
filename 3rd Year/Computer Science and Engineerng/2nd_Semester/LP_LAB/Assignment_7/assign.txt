@@ -1,0 +1,3 @@
+Write Lex and Yaac Program for Structure declaration syntax, including all the possibilities to fail all the syntax error. 
+
+array of structure variable , variable declaration, calling structure inside main and structure inside structure.

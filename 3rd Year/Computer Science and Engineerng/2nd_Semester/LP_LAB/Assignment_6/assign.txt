@@ -1,0 +1,7 @@
+Write a Lex and Yacc program to check syntax analyzer and Semantic analysis for "for loop". 
+Check all the possible rules are covered or not including 
+  variable declaration, 
+  break statements, 
+  continue statement and exit function 
+
+and cross verify other requirements for for loop.

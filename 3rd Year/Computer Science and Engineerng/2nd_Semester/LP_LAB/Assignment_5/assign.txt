@@ -1,0 +1,13 @@
+Question - 1:
+  Write appropriate program in Lex and Yacc that it can verify a given C program with general syntax 
+    [ Like Include headers, Main function, if, while, printf, and scanf ].
+
+
+Question - 2: 
+  Write Lex and Yacc Program to make sure a single variable is not declared more than once. 
+  make sure that variable name should not same like reserved keyword. 
+  this program allow only integer (int). and double (double) variables.
+
+
+Question - 3: 
+  Write a Lex program to count the number of commented lines in the given partial code.

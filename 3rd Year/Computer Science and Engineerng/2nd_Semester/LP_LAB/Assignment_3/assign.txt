@@ -1,0 +1,14 @@
+Question - 1:
+  Write a simple lex/yacc program to show precedence between minus(-) ,plus(+), amultiplication(*) operations.
+
+
+Question - 2:
+  Write a simple lex program to find out whether any entered number is signed integer or not.
+
+
+Question - 3:
+  Write a lex program that could recognise few reserved words in C language
+
+
+Question - 4:
+  Write lex and yacc program to do the processing of E+E|E-E|(E)| id where id is a number.
